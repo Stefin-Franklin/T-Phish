@@ -1,6 +1,6 @@
 # T-Phish
 
-## About T-LOAD :
+## About T-Phish :
 
 T-Phish is agreat and very usfull phishing tool for Mobile User. This is a modifyed Tool
 
