@@ -4,6 +4,9 @@
 
 T-Phish is agreat and very usfull phishing tool for Mobile User. This is a modifyed Tool
 
+## App  for use
+Just install **TERMUX** app from playstore or other platforms which comfortable for you.
+After installation completed, just type the command bellow.
 ### Installation and usage guide
 ```
 ```
